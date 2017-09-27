@@ -20,8 +20,10 @@ ul{
 
 html{
 	background-image: url("http://static3.businessinsider.com/image/51d31170eab8ea101b000001/san-francisco-is-americas-snobbiest-city-according-to-the-rest-of-the-country.jpg");
-	width: 100%;
-	height: 100&;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 body{
