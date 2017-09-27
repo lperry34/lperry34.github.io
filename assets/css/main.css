@@ -3,3 +3,9 @@
 .top{
 text-align:center;
 }
+
+.about, .contact{
+	display:inline-block;
+	padding: 5px;
+}
+
